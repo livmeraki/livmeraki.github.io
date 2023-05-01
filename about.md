@@ -8,8 +8,11 @@ permalink: /about/
 Profile
 
 Name: Olivia Park (박시은)
+
 Birthday: September 19, 2002
+
 Nationality: S. Korea
+
 Email: livmeraki.spark@gmail.com
 
 Status Quo: 
