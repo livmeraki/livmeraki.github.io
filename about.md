@@ -15,17 +15,12 @@ permalink: /about/
 
 * Email: livmeraki.spark@gmail.com
 
-
-* Status Quo: 
-   
-** University student in Handong Global University
+* Status Quo: University student in Handong Global University
     
-
-
 * Dream: 
    
-   [] Going into field of robotics as a software or mechanics engineer
+   🔥 Going into field of robotics as a software or mechanics engineer
    
-   [] Helping those in need with technology
+   🔥 Helping those in need with technology
    
-   [] Making the world a better place one step at a time :)
+   🔥 Making the world a better place one step at a time :)
