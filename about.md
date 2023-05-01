@@ -15,10 +15,12 @@ Nationality: S. Korea
 
 Email: livmeraki.spark@gmail.com
 
+
 Status Quo: 
    
    University student in Handong Global University
     
+
 
 Dream: 
    
