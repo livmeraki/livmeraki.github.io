@@ -7,25 +7,25 @@ permalink: /about/
 
 # Profile
 
-## Name: Olivia Park (박시은)
+* Name: Olivia Park (박시은)
 
-## Birthday: September 19, 2002
+* Birthday: September 19, 2002
 
-## Nationality: S. Korea
+* Nationality: S. Korea
 
-## Email: livmeraki.spark@gmail.com
+* Email: livmeraki.spark@gmail.com
 
 
-## Status Quo: 
+* Status Quo: 
    
-   ### University student in Handong Global University
+** University student in Handong Global University
     
 
 
-## Dream: 
+* Dream: 
    
-   ### Going into field of robotics as a software or mechanics engineer
+   [] Going into field of robotics as a software or mechanics engineer
    
-   ### Helping those in need with technology
+   [] Helping those in need with technology
    
-   ### Making the world a better place one step at a time :)
+   [] Making the world a better place one step at a time :)
