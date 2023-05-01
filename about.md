@@ -4,14 +4,19 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Profile
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Name: Olivia Park (박시은)
+Birthday: September 19, 2002
+Nationality: S. Korea
+Email: livmeraki.spark@gmail.com
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Status Quo: 
+    University student in Handong Global University
+    
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Dream: 
+    Going into a field of robotics as a software or mechanics engineer
+    Helping those in need with technology
+    Making the world a better place one step at a time :)
