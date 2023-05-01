@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Just another day!"
+title:  "Just another day"
 date:   2023-05-01 19:34:25
 categories: jekyll update
 tags: featured
